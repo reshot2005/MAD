@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">PreferencesDemo</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Chinese</item>
+    </string-array>
+
+</resources>

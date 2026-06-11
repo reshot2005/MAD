@@ -1,0 +1,11 @@
+1. What is the purpose of versionCode?
+Answer:
+It is an integer used by Google Play to determine if one version is newer than another.
+
+2. Why is a Keystore essential?
+Answer:
+It contains cryptographic keys used to verify the app's integrity and ensure it has not been tampered with.
+
+3. What are the different release channels?
+Answer:
+Internal, Closed (Alpha), Open (Beta), and Production.
